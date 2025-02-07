@@ -6,10 +6,10 @@ This repository contains a Streamlit-based Aviation Risk Modeling Dashboard that
 
 ## Features
 
-✅ Data Visualization – Analyze aviation incidents, weather conditions, and aircraft types using interactive plots.
-✅ Risk Scoring Model – Calculate risk scores based on aviation incidents and fatalities.
-✅ Monte Carlo Simulation – Predict potential financial losses using stochastic modeling.
-✅ Streamlit Web App – Deploy and interact with the dashboard in real-time.
+- ✅ Data Visualization – Analyze aviation incidents, weather conditions, and aircraft types using interactive plots.
+- ✅ Risk Scoring Model – Calculate risk scores based on aviation incidents and fatalities.
+- ✅ Monte Carlo Simulation – Predict potential financial losses using stochastic modeling.
+- ✅ Streamlit Web App – Deploy and interact with the dashboard in real-time.
 
 ## Live Demo
 
