@@ -37,6 +37,7 @@ streamlit run aviation_risk_model.py
 ## Project Structure
 
 streamlit-aviation-dashboard/
+
 │── aviation_risk_model.py    # Main Streamlit app script
 │── requirements.txt          # Required Python packages
 │── README.md                 # Project documentation
