@@ -20,20 +20,20 @@ You can try the live demo hosted on Streamlit Cloud: [🔗 Streamlit App](https:
 To run this project locally, follow these steps:
 
 1. Clone the Repository
-
+```bash
 git clone https://github.com/ajitagupta/streamlit-aviation-dashboard.git
 cd streamlit-aviation-dashboard
-
+```
 2. Install Dependencies
 
 Make sure you have Python installed, then install the required packages:
-
+```bash
 pip install -r requirements.txt
-
+```
 3. Run the Streamlit App
-
+```bash
 streamlit run aviation_risk_model.py
-
+```
 ## Project Structure
 
 streamlit-aviation-dashboard/
