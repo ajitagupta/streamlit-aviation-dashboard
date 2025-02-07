@@ -1,18 +1,21 @@
-Streamlit Aviation Risk Modeling Dashboard
+# Streamlit Aviation Risk Modeling Dashboard
 
-Overview
+## Overview
 
 This repository contains a Streamlit-based Aviation Risk Modeling Dashboard that analyzes aviation incidents, evaluates risk scores, and simulates potential financial losses using Monte Carlo simulations. The goal is to provide an interactive tool for aviation insurance analysts, actuaries, and risk management professionals.
 
-Features
+## Features
 
-✅ Data Visualization – Analyze aviation incidents, weather conditions, and aircraft types using interactive plots.✅ Risk Scoring Model – Calculate risk scores based on aviation incidents and fatalities.✅ Monte Carlo Simulation – Predict potential financial losses using stochastic modeling.✅ Streamlit Web App – Deploy and interact with the dashboard in real-time.
+✅ Data Visualization – Analyze aviation incidents, weather conditions, and aircraft types using interactive plots.
+✅ Risk Scoring Model – Calculate risk scores based on aviation incidents and fatalities.
+✅ Monte Carlo Simulation – Predict potential financial losses using stochastic modeling.
+✅ Streamlit Web App – Deploy and interact with the dashboard in real-time.
 
-Live Demo
+## Live Demo
 
-You can try the live demo hosted on Streamlit Cloud:🔗 Streamlit App Link (Replace with actual deployment link)
+You can try the live demo hosted on Streamlit Cloud: [🔗 Streamlit App](https://app-aviation-dashboard.streamlit.app/)
 
-Installation
+## Installation
 
 To run this project locally, follow these steps:
 
@@ -31,7 +34,7 @@ pip install -r requirements.txt
 
 streamlit run aviation_risk_model.py
 
-Project Structure
+## Project Structure
 
 streamlit-aviation-dashboard/
 │── aviation_risk_model.py    # Main Streamlit app script
@@ -39,7 +42,7 @@ streamlit-aviation-dashboard/
 │── README.md                 # Project documentation
 │── .streamlit/               # Streamlit configuration files
 
-Usage Guide
+## Usage Guide
 
 Explore Aviation Data – View aviation incidents, aircraft types, and weather conditions.
 
@@ -47,7 +50,7 @@ Analyze Risk Scores – Identify high-risk flights based on historical data.
 
 Run Monte Carlo Simulations – Estimate financial losses with interactive simulations.
 
-Deployment Guide
+## Deployment Guide
 
 To deploy this app on Streamlit Cloud:
 
@@ -57,7 +60,7 @@ Go to Streamlit Cloud.
 
 Connect your GitHub repository and deploy.
 
-Contributions
+## Contributions
 
 Contributions are welcome! If you’d like to improve this dashboard, feel free to:
 
@@ -65,7 +68,7 @@ Open an issue 🚀
 
 Submit a pull request 💡
 
-License
+## License
 
 This project is licensed under the MIT License.
 
